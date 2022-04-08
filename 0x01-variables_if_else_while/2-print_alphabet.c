@@ -10,6 +10,7 @@
 int main(void)
 {
 	int x = 'a';
+
 	while (x <= 'z')
 
 {
