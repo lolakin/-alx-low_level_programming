@@ -26,7 +26,7 @@ void print_times_table(int n)
 						_putchar(' ');
 						_putchar(' ');
 					}
-					_putchar(mult < 100);
+					_putchar(mult + '0');
 				}
 				else if (mult < 100)
 				{
@@ -45,9 +45,7 @@ void print_times_table(int n)
 				if (col != n)
 					_putchar(',');
 			}
-			_putchar(',');
-		}
 		_putchar('\n');
 	}
 }
-
+}
