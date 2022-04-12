@@ -11,7 +11,7 @@ int main(void)
 	i = sum = 0;
 	j = 1;
 
-	for (count = 0; count < 50, count++)
+	for (count = 0; count < 50; count++)
 	{
 		tmp = i + j;
 		i = j;
