@@ -1,6 +1,6 @@
 #include "main.h"
 
-/*
+/**
  * function _abs - function that computes the ansolute value of an integer.
  * @x: The input number to check
  * Return: int.
