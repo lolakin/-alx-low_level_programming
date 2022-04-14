@@ -19,6 +19,7 @@ void print_number(int n)
 	}
 	num = n;
 	num2 = num;
+
 	if (num > 9)
 	{
 		while (num >= 10)
