@@ -1,4 +1,4 @@
-#incude "main.h"
+#include "main.h"
 
 /**
  * __strcmp - compares two strings
@@ -9,7 +9,7 @@
  * more than 0 if s1 is greater than s2
  */
 
-int _strcmp(char *s1, char *s2)
+int  _strcmp(char *s1, char *s2)
 {
 	while (*s1 == *s2)
 	{
