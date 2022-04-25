@@ -3,10 +3,7 @@
 /**
  * main - a function that adds one line to the code, so that the program prints
  * a[2] = 98, followed by a new line.
- * Remember:
- * - you are not allowed to use a
- * - you are not allowed to modify p
- * - you are not allowed to code anything else than this line of code
+ * Return: 98\n
  */
 int main(void)
 {
