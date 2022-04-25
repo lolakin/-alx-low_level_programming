@@ -1,11 +1,5 @@
 #include <stdio.h>
 
-/**
- * main - a function that adds one line to the code, so that the program prints
- * a[2] = 98, followed by a new line.
- * Return: 98\n
- */
-
  int main(void)
 {
 	int n;
