@@ -1,1 +1,1 @@
-This is a readme argument
+This task is about static libraries
