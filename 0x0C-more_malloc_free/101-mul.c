@@ -8,6 +8,7 @@
  *
  * Return: 0 if a non-digit is found, 1 otherwise
  */
+
 int is_digit(char *s)
 {
 	int i = 0;
@@ -27,6 +28,7 @@ int is_digit(char *s)
  *
  * Return: the length of the string
  */
+
 int _strlen(char *s)
 {
 	int i = 0;
@@ -41,10 +43,12 @@ int _strlen(char *s)
 /**
  * errors - handles errors for main
  */
+
 void errors(void)
 {
 	printf("Error\n");
 	exit(98);
+
 }
 
 /**
@@ -54,6 +58,7 @@ void errors(void)
  *
  * Return: always 0 (Success)
  */
+
 int main(int argc, char *argv[])
 {
 	char *s1, *s2;
