@@ -1,16 +1,12 @@
-<<<<<<< HEAD
-=======
 /*
- * Lois Akinrele
+ * Akinrele Lois
  */
-
-#include "hash_tables.h"
 
 /**
  * hash_table_create - creates a hash table
  * @size: the size of the array
  *
- *Return: A pointer to the newly created hash table
+ * Return: A pointer to the newly created hash table
  */
 hash_table_t *hash_table_create(unsigned long int size)
 {
@@ -30,4 +26,3 @@ hash_table_t *hash_table_create(unsigned long int size)
 
 	return (ht);
 }
->>>>>>> d7ad26ee202be6b40a06e56da52dbec5b9139f0b
