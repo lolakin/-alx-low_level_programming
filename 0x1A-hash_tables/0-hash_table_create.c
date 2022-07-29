@@ -1,5 +1,5 @@
 /*
- * Akinrele Lois
+ * Lois Lade Akinrele
  */
 
 #include "hash_tables.h"
