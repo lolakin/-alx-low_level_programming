@@ -1,5 +1,5 @@
 /*
- * Adegbite Damola Oluwafifunmi
+ * Lois Akinrele
  */
 
 #include "hash_tables.h"
