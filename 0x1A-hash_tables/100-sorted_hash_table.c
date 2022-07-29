@@ -1,5 +1,5 @@
 /*
- *Author: Sangwani P Zyambo
+ *Author: Lois Lade Akinrele
  *
  */
 #include "hash_tables.h"
