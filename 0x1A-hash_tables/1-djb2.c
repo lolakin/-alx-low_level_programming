@@ -1,6 +1,6 @@
 /**
- *hash_djb2 - implementation of the djb2 algorith
- *@str: string used to generate hash value
+ * hash_djb2 - implementation of the djb2 algorith
+ * @str: string used to generate hash value
  *
  * Return: hash value
  */
